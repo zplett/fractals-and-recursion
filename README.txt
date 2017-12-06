@@ -1,0 +1,5 @@
+This lab gave me a much wider and more in depth understanding of how recursion works and the multitude of ways it can be used.
+This lab took me around 7 hours including the designated lab time.
+
+I have adhered to the Honor Code on this assignment.
+
