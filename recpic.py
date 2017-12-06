@@ -16,7 +16,7 @@ def main():
     print("Enter '4' to select snowflake.")
     
     option = eval(input("Which would you like to select?: "))
-    
+    pic = None
     done = False
     
     if option == 1:
@@ -81,6 +81,7 @@ def main():
     
     pic.display()
     input()
+    exit( 0 )
 
 #Displays the bubble fractal. 
 def bubbles(size, depth, x1, y1, x2, y2, pic):
